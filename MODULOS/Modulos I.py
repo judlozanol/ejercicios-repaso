@@ -26,3 +26,24 @@ while(condition>=6 or condition<=0):
             condicionInvalida()
     except ValueError:
         condicionInvalida()
+
+if condition==1:
+    num1= int(input("Intruduzca el primer sumando: "))
+    num2= int(input("Intruduzca el segundo sumando: "))
+    print("La suma de",num1,"y",num2,"es:", aritmetica.suma(num1,num2))
+elif condition==2:
+    num1= int(input("Intruduzca el minuendo: "))
+    num2= int(input("Intruduzca el sustraendo: "))
+    print("La diferencia entre",num1,"y",num2,"es:", aritmetica.rest(num1,num2))
+elif condition==3:
+    num1= int(input("Intruduzca el multiplicando: "))
+    num2= int(input("Intruduzca el multiplicador: "))
+    print("El resultado de",num1,"*",num2,"es:", aritmetica.mult(num1,num2))
+elif condition==4:
+    num1= int(input("Intruduzca el dividendo: "))
+    num2= int(input("Intruduzca el divisor: "))
+    print("El resultado de",num1,"/",num2,"es:", aritmetica.div(num1,num2))
+elif condition==5:
+    num1= int(input("Intruduzca la base: "))
+    num2= int(input("Intruduzca el exponente: "))
+    print("El resultado de",num1,"elevado a",num2,"es:", aritmetica.pot(num1,num2))

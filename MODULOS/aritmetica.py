@@ -1,14 +1,14 @@
-def sum(num1, num2):
+def suma(num1, num2):
     return(num1 + num2)
 
-def res(num1, num2):
+def rest(num1, num2):
     return(num1 - num2)
 
 def mult(num1, num2):
     return(num1 * num2)
 
 def div(num1, num2):
-    return(num1 / num2)
+    return float(num1 / num2)
 
-def pow(num, potencia):
+def pot(num, potencia):
     return(num ** potencia)
