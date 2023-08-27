@@ -174,11 +174,3 @@ def validar_hexadecimal(num):
             return True
         else:
             return False
-
-
-
-
-if validar_hexadecimal("AB76Z")==True:
-    print("si")
-else:
-    print("no")
