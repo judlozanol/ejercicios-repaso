@@ -1,3 +1,7 @@
+"""Crear un módulo que permita validar un número según la base en la cual este expresado, las
+bases validas deben ser 2, 8, 10 y 16.
+"""
+"""En este caso, el modulo usara un método de eliminación para lograr validar si un número pertenece a determinado sistema"""
 def validar_binario(num):
     if num=="":
         return False
