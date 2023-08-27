@@ -6,7 +6,7 @@ def potencia(b,e):
   else: 
     return b * potencia(b,e-1)
   
-b=int(input())
-e=int(input())
+b=int(input("Escriba la base: "))
+e=int(input("Escriba la potencia: "))
 
 print(potencia(b,e))
