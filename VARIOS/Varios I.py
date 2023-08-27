@@ -52,12 +52,14 @@ for i in range(segundos_f+1):
                 print("0"+str(hora)+":"+str(min)+":"+str(seg))
             else:
                 print(str(hora)+":"+str(min)+":"+str(seg))
+    if i==segundos_f:
+        print("\n\tCONTEO FINALIZADO\n")
+        print("\t◥------◥\n\tl ● ▄ ◉ l ѠOOƑ!\n\tl‿/ʊ\‿l\n\tl══o══l\n\t︳ ︳︳ l⊃\n\tఋ︵ ఋ\n")
     time.sleep(1)
     seg=avanzar_seg(seg)
     if seg==0:
         min=avanzar_min(min)
         if min==0:
             hora=avanzar_hora(hora)
-print("\n\tCONTEO FINALIZADO\n")
-print("\t◥------◥\n\tl ● ▄ ◉ l ѠOOƑ!\n\tl‿/ʊ\‿l\n\tl══o══l\n\t︳ ︳︳ l⊃\n\tఋ︵ ఋ\n")
+
 
