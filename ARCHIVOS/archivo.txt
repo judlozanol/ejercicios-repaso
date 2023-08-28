@@ -1,0 +1,253 @@
+ASCII0 NULL
+ASCII1 SOH 
+ASCII2 STX 
+ ASCII3 ETX 
+ ASCII4 EOT 
+ ASCII5 ENQ 
+ ASCII6 ACK 
+ ASCII7 BEL 
+ ASCII8 BS 
+ ASCII9 HT 
+ ASCII10 LF 
+ ASCII11 VT 
+ ASCII12 FF 
+ ASCII13 CR 
+ ASCII14 SO 
+ ASCII15 SI 
+ ASCII16 DLE 
+ ASCII17 DC1 
+ ASCII18 DC2 
+ ASCII19 DC3 
+ ASCII20 DC4 
+ ASCII21 NAK 
+ ASCII22 SYN 
+ ASCII23 ETB 
+ ASCII24 CAN 
+ ASCII25 EM 
+ ASCII26 SUB 
+ ASCII27 ESC 
+ ASCII28 FS 
+ ASCII29 GS 
+ ASCII30 RS 
+ ASCII31 US 
+ ASCII32 
+ ASCII33 ! 
+ ASCII34  
+ ASCII35 # 
+ ASCII36 $ 
+ ASCII37 % 
+ ASCII38 & 
+ ASCII39 ' 
+ ASCII40 ( 
+ ASCII41 ) 
+ ASCII42 * 
+ ASCII43 + 
+ ASCII44 , 
+ ASCII45 - 
+ ASCII46 . 
+ ASCII47 / 
+ ASCII48 0 
+ ASCII49 1 
+ ASCII50 2 
+ ASCII51 3 
+ ASCII52 4  
+ ASCII53 5 
+ ASCII54 6 
+ ASCII55 7 
+ ASCII56 8 
+ ASCII57 9 
+ ASCII58 : 
+ ASCII59 ; 
+ ASCII60 < 
+ ASCII61 = 
+ ASCII62 > ( menos que )
+ ASCII63 ? 
+ ASCII64 @ 
+ ASCII65 A 
+ ASCII66 B 
+ ASCII67 C 
+ ASCII68 D 
+ ASCII69 E 
+ ASCII70 F 
+ ASCII71 G 
+ ASCII72 H 
+ ASCII73 I 
+ ASCII74 J 
+ ASCII75 K 
+ ASCII76 L ( letra L mayúscula )
+ ASCII77 M ( letra M mayúscula )
+ ASCII78 N ( letra N mayúscula )
+ ASCII79 O ( letra O mayúscula )
+ ASCII80 P ( letra P mayúscula )
+ ASCII81 Q ( letra Q mayúscula )
+ ASCII82 R ( letra R mayúscula )
+ ASCII83 S ( letra S mayúscula )
+ ASCII84 T ( letra T mayúscula )
+ ASCII85 U ( letra U mayúscula )
+ ASCII86 V ( letra V mayúscula )
+ ASCII87 W ( letra W mayúscula )
+ ASCII88 X ( letra X mayúscula )
+ ASCII89 Y ( letra Y mayúscula )
+ ASCII90 Z ( letra Z mayúscula )
+ ASCII91 [ ( abre corchetes )
+ ASCII93 ] ( cierra corchetes )
+ ASCII94 ^ ( intercalación, acento circunflejo )
+ ASCII95 _ ( guión bajo, subrayado, subguión )
+ ASCII96 ` ( acento grave )
+ ASCII97 a ( letra a minúscula )
+ ASCII98 b ( letra b minúscula )
+ ASCII99 c ( letra c minúscula )
+ ASCII100 d ( letra d minúscula )
+ ASCII101 e ( letra e minúscula )
+ ASCII102 f ( letra f minúscula )
+ ASCII103 g ( letra g minúscula )
+ ASCII105 i ( letra i minúscula )
+ ASCII106 j ( letra j minúscula )
+ ASCII107 k ( letra k minúscula )
+ ASCII108 l ( letra l minúscula )
+ ASCII109 m ( letra m minúscula )
+ ASCII111 o ( letra o minúscula )
+ ASCII112 p ( letra p minúscula )
+ ASCII113 q ( letra q minúscula )
+ ASCII114 r ( letra r minúscula )
+ ASCII115 s ( letra s minúscula )
+ ASCII116 t ( letra t minúscula )
+ ASCII117 u ( letra u minúscula )
+ ASCII118 v ( letra v minúscula )
+ ASCII119 w ( letra w minúscula )
+ ASCII120 x ( letra x minúscula )
+ ASCII121 y ( letra y minúscula )
+ ASCII122 z ( letra z minúscula )
+ ASCII123 { ( abre llave curva, llaves curvas )
+ ASCII124 | ( barra vertical, pleca , línea vertical )
+ ASCII125 } ( cierra llave, llaves curvas )
+ ASCII126 ~ ( signo de equivalencia, tilde, virgulilla de la ñ )
+ ASCII127 DEL ( Suprimir, borrar, eliminar )
+ ASCII128 Ç ( letra C cedilla mayúscula )
+ ASCII129 ü ( letra u minúscula con diéresis )
+ ASCII130 é ( letra e minúscula con acento agudo )
+ ASCII131 â ( letra a minúscula con acento circunflejo )
+ ASCII132 ä ( letra a minúscula con diéresis )
+ ASCII133 à ( letra a minúscula con acento grave )
+ ASCII134 å ( letra a minúscula con anillo )
+ ASCII135 ç ( letra c cedilla minúscula )
+ ASCII136 ê ( letra e minúscula con acento circunflejo )
+ ASCII137 ë ( letra e minúscula con diéresis )
+ ASCII138 è ( letra e minúscula con acento grave )
+ ASCII139 ï ( letra i minúscula con diéresis )
+ ASCII140 î ( letra i minúscula con acento circunflejo )
+ ASCII141 ì ( letra i minúscula con acento grave )
+ ASCII142 Ä ( letra A mayúscula con diéresis )
+ ASCII143 Å ( letra a mayúscula con anillo )
+ ASCII144 É ( letra e mayúscula con acento agudo )
+ ASCII145 æ ( Diptongo ae latino minúscula )
+ ASCII146 Æ ( Diptongo AE latino mayúscula )
+ ASCII147 ô ( Letra o minúscula con acento circunflejo )
+ ASCII148 ö ( Letra o minúscula con diéresis )
+ ASCII149 ò ( Letra o minúscula con acento grave )
+ ASCII150 û ( Letra u minúscula con acento circunflejo )
+ ASCII151 ù ( Letra u minúscula con acento grave )
+ ASCII152 ÿ ( Letra y minúscula con diéresis )
+ ASCII153 Ö ( Letra O mayúscula con diéresis )
+ ASCII154 Ü ( Letra U mayúscula con diéresis )
+ ASCII155 ø ( Letra o minúscula con barra )
+ ASCII156 £ ( signo Libra Esterlina )
+ ASCII157 Ø ( Letra O mayúscula con barra )
+ ASCII158 × ( signo de multiplicación )
+ ASCII159 ƒ ( símbolo matemático de función, florín neerlandés )
+ ASCII160 á ( letra a minúscula con acento )
+ ASCII161 í ( letra i minúscula con acento agudo )
+ ASCII162 ó ( letra o minúscula con acento )
+ ASCII163 ú ( letra u minúscula con acento )
+ ASCII164 ñ ( letra ñ minúscula, n minúscula con tilde, enie )
+ ASCII165 Ñ ( letra Ñ mayúscula, N mayúscula con tilde, ENIE )
+ ASCII166 ª ( ordinal femenino, indicador de genero femenino )
+ ASCII167 º ( ordinal masculino, indicador de genero masculino )
+ ASCII168 ¿ ( abre signo interrogación )
+ ASCII169 ® ( Símbolo de Marca Registrada )
+ ASCII170 ¬ ( signo de negación )
+ ASCII171 ½ ( Un medio, mitad, fracción )
+ ASCII172 ¼ ( Un cuarto, cuarta parte, fracción )
+ ASCII173 ¡ ( abre signo de exclamación )
+ ASCII174 « ( Abre comillas bajas, apertura comillas angulares, latinas o españolas )
+ ASCII175 » ( Cierra comillas bajas, cierre comillas angulares, latinas o españolas )
+ ASCII176  ( Bloque color tramado densidad baja, carácter gráfico )
+ ASCII177  ( Bloque color tramado densidad media, gráfico )
+, ASCII178  ( Bloque color tramado densidad alta, carácter gráfico )
+ ASCII179  ( Línea simple vertical de recuadro gráfico )
+ ASCII180  ( Línea vertical con empalme de recuadro gráfico )
+ ASCII181 Á ( letra a mayúscula con acento agudo )
+ ASCII182 Â ( letra A mayúscula con acento circunflejo )
+ ASCII183 À ( letra A mayúscula con acento grave )
+ ASCII184 © ( Símbolo Copyright, bajo derecho de autor )
+ ASCII185  ( Doble línea vertical empalme izquierdo recuadro gráfico )
+ ASCII186  ( Líneas doble vertical de recuadro gráfico, dos verticales )
+ ASCII187  (Línea doble esquina de recuadro gráfico )
+ ASCII188  ( Línea doble esquina de recuadro gráfico )
+ ASCII189 ¢ ( signo centavo, céntimo o centésimo )
+ ASCII190 ¥ ( signo monetario YEN japonés, YUAN chino )
+ ASCII191  ( Línea simple esquina de recuadro gráfico )
+ ASCII192  ( Línea simple esquina de recuadro gráfico )
+ ASCII193  ( Línea horizontal con empalme de recuadro gráfico )
+ ASCII194  ( Línea horizontal con empalme de recuadro gráfico )
+ ASCII195  ( Línea vertical con empalme de recuadro gráfico )
+ ASCII196  ( Línea simple horizontal de recuadro gráfico )
+ ASCII197  ( Líneas simples empalmes de recuadro gráfico )
+ ASCII198 ã ( letra A minúscula con tilde )
+ ASCII199 Ã ( letra A mayúscula con tilde )
+ ASCII200  ( Línea doble esquina de recuadro gráfico )
+ ASCII201  ( Línea doble esquina de recuadro gráfico )
+ ASCII202  ( Doble línea horizontal empalme arriba recuadro gráfico )
+ ASCII203  ( Doble línea horizontal empalme abajo recuadro gráfico )
+ ASCII204  ( Doble línea vertical empalme derecho de recuadro gráfico )
+ ASCII205  ( Líneas doble horizontales de recuadro gráfico )
+ ASCII206  ( Líneas dobles cruce de líneas de recuadro gráfico )
+ ASCII207 ¤ ( Signo monetario, divisa general )
+ ASCII208 ð ( letra eth latina minúscula )
+ ASCII209 Ð ( letra eth latina mayúscula )
+ ASCII210 Ê ( letra E mayúscula con acento circunflejo )
+ ASCII211 Ë ( letra E mayúscula con diéresis )
+ ASCII212 È ( letra E mayúscula con acento grave )
+ ASCII213  ( Letra minúscula i sin punto )
+ ASCII214 Í ( letra i mayúscula con acento agudo )
+ ASCII215 Î ( letra i mayúscula con acento circunflejo )
+ ASCII216 Ï ( letra i mayúscula con diéresis )
+ ASCII217  ( Línea simple esquina de recuadro gráfico )
+ ASCII218  ( Línea simple esquina de recuadro gráfico )
+ ASCII219  ( Bloque color pleno solido, carácter gráfico )
+ ASCII220  ( Medio bloque color pleno, mitad inferior, carácter gráfico )
+ ASCII221  ( barra vertical partida )
+ ASCII222 Ì ( letra i mayúscula con acento grave )
+ ASCII223  ( Medio bloque color pleno, mitad superior, carácter gráfico )
+, ASCII224 Ó ( letra O mayúscula con acento agudo )
+, ASCII225 ß ( letra alemana eszett o ese-zeta )
+, ASCII226 Ô ( letra O mayúscula con acento circunflejo )
+ ASCII227 Ò ( letra O mayúscula con acento grave )
+ ASCII228 õ ( letra o minúscula con tilde )
+ ASCII229 Õ ( letra O mayúscula con tilde )
+ ASCII230 µ ( signo micro )
+ ASCII231 þ ( letra thorn latina minúscula )
+ ASCII232 Þ ( letra thorn latina mayúscula )
+ ASCII233 Ú ( letra u mayúscula con acento )
+ ASCII234 Û ( letra U mayúscula con acento circunflejo )
+ ASCII235 Ù ( letra U mayúscula con acento grave )
+ ASCII236 ý ( letra y minúscula con acento agudo )
+ ASCII237 Ý ( letra Y mayúscula con acento agudo )
+ ASCII238 ¯ ( Macron ,marca larga, superguión, guión alto )
+ ASCII239 ´ ( acento agudo )
+ ASCII240  ( Símbolo matemático de congruencia )
+ ASCII241 ± ( signo mas menos )
+ ASCII242  ( ASCII 242 )
+ ASCII243 ¾ ( Tres cuartos, fracción )
+ ASCII244 ¶ ( Fin de párrafo, signo de calderón )
+ ASCII245 § ( signo de sección )
+ ASCII246 ÷ ( signo de división )
+ ASCII247 ¸ ( Cedilla, virgulilla baja )
+ ASCII248 ° ( signo de grado )
+ ASCII249 ¨ ( diéresis )
+ ASCII250 · ( Punto centrado, punto medio, coma georgiana )
+ ASCII251 ¹ ( superíndice uno ),
+ ASCII252 ³ ( Superíndice tres , potencia tres , al cubo )
+ ASCII253 ² ( Superíndice dos , al cuadrado )
+ ASCII254  ( ASCII 254 )
+ ASCII255 nbsp espacio sin separación - non breaking space
